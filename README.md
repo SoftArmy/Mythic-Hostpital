@@ -1,4 +1,7 @@
 # Disclaimer
+I am no longer maintaining this medical script and would not recommend using it for your server. There are now better free alternatives available.
+
+# Info
 I did not make this script; I just updated it to make it work so no one else will have errors.
 
 **Mythic Hospital**
