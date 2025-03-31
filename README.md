@@ -13,5 +13,6 @@ NOTE: While I have removed my framework base as a dependency, there are some asp
 
 EXTRA NOTE: This has functions for using /bed for RP purposes, but it does require you to add your own command for it (since I'm using my chat resource). Just simply register a command that has TriggerClientEvent('mythic_hospital:client:RPCheckPos', source)
 
-Discord Invite
+Discord Invite:
+
 https://discord.gg/gN2F8VpyNY
